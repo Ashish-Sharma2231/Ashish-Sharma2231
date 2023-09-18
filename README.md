@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashish Sharma</h1>
-<h3 align="center">A passionate Data Analyst& MySQL Developer from India</h3>
+<h3 align="center">A passionate Data Analyst & MySQL Developer from India</h3>
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 💬 Ask me about **HTML, CSS , Python , MYSQL , POWER BI , MS OFFICE (MS WORD , MS EXCEL , MS POWER POINT)**
+- 💬 Ask me about **Python , HTML , CSS , MYSQL , POWER BI , MS OFFICE (MS WORD , MS EXCEL , MS POWER POINT)**
 
 - 📫 How to reach me **sharma.ashish9873@gmail.com**
 
